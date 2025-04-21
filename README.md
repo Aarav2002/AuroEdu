@@ -2,6 +2,8 @@
 
 A modern Play-to-Earn (P2E) gaming dashboard that enables players to track earnings, manage in-game assets, and participate in the marketplace. Built with React and Web3 technologies.
 
+Live Link - https://auro-edu.vercel.app/
+
 ![Dashboard Preview](https://images.pexels.com/photos/7887800/pexels-photo-7887800.jpeg?auto=compress&cs=tinysrgb&w=1200)
 
 ## ✨ Features
